@@ -7,7 +7,7 @@ const SupportPage = ({ activeTab, user, onLogout }) => {
   const navigate = useNavigate();
 
   const handleTelegramClick = () => {
-    window.open('https://t.me/GPoint_Griks', '_blank');
+    window.open('https://t.me/destpay', '_blank');
   };
 
   return (
