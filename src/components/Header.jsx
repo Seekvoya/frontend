@@ -4,7 +4,7 @@ const Header = ({ user, balance }) => {
 	return (
 		<>
 			<header className='header'>
-				<div className='logo'>destpays</div>
+				<div className='logo'>destpay</div>
 				<div className='balance-info'>
 					<span>{balance || "0"} USD</span>
 					<span>{user || "Гость"}</span>
