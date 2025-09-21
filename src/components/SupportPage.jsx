@@ -98,7 +98,7 @@ const SupportPage = ({ activeTab, user, onLogout }) => {
 
             <div className="text-gray-400 text-sm">
               <p>Обычное время ответа поддержки: в течение 15 минут в рабочее время (9:00–18:00 МСК).</p>
-              <p className="mt-2">Электронная почта для экстренных случаев: <span className="text-gray-300">support@Overcard.com</span></p>
+              <p className="mt-2">Электронная почта для экстренных случаев: <span className="text-gray-300">support@Overcards.com</span></p>
             </div>
           </div>
         </main>

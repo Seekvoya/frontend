@@ -223,7 +223,7 @@ const RegistrationPage = ({ onLogin, navigate }) => {
                             </div>
                             
                             <h1 className="text-4xl font-bold bg-gradient-to-r from-white via-emerald-200 to-teal-300 bg-clip-text text-transparent tracking-tight">
-                                Overcard
+                                Overcards
                             </h1>
                             <p className="mt-2 text-slate-400 font-medium">Join the Trading Revolution</p>
                             <div className="flex items-center gap-2 mt-1">
@@ -392,7 +392,7 @@ const RegistrationPage = ({ onLogin, navigate }) => {
                         </p>
                         
                         <div className="flex items-center justify-center space-x-4 text-xs text-slate-500 mt-6">
-                            <span>© {new Date().getFullYear()} Overcard Trading</span>
+                            <span>© {new Date().getFullYear()} Overcards Trading</span>
                             <div className="w-1 h-1 bg-slate-500 rounded-full"></div>
                             <span>All rights reserved</span>
                             <div className="w-1 h-1 bg-slate-500 rounded-full"></div>

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://gpoint.pw:3001';
+const API_BASE_URL = 'https://77.105.144.129:3001';
 
 // Создаем экземпляр axios
 const apiClient = axios.create({
