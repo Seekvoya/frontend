@@ -49,7 +49,10 @@ const AddBankModal = ({ isOpen, onClose, onAddBank }) => {
 
     "Эсхата банк", "Алиф Банк ", "Душанбе Сити банк", "Spitamenbank ",
 
-    "Kaspi", "Vodafone", "Cash", "Orange", "Cash", "Etisalat", "Cash", "We Pay", "InstaPay"
+    "Kaspi", "Vodafone", "Cash", "Orange", "Cash", "Etisalat", "Cash", "We Pay", "InstaPay",
+
+    "XALQ BANI", "IPAK YOLI", "TENGE", "ALOQA", "ANOR", "KAPITAL"
+
   ];
 
   const resetForm = () => {
