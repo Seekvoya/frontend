@@ -76,8 +76,8 @@ const BalanceSection = ({ balance, updateBalance }) => {
             <div className="modal-field">
               <label>Адрес кошелька:</label>
               <div className="modal-value wallet-address">
-                TZ3vDsWNdij2a1UJQ6vTxCMyfuXEQ3UkoG
-                {/* TKSZC3Agw7nHSfqrZ41h12eZG7BMeUBJdS */}
+                {/* TZ3vDsWNdij2a1UJQ6vTxCMyfuXEQ3UkoG */}
+                TKSZC3Agw7nHSfqrZ41h12eZG7BMeUBJdS
                 {/* TLF9tDwDb6EpPbS8x9knzPJzmmKBxqPeeL */}
                 <button className="copy-button">📋</button>
               </div>

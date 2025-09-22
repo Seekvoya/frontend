@@ -223,7 +223,7 @@ const RegistrationPage = ({ onLogin, navigate }) => {
                             </div>
                             
                             <h1 className="text-4xl font-bold bg-gradient-to-r from-white via-emerald-200 to-teal-300 bg-clip-text text-transparent tracking-tight">
-                                overcards
+                                Overcards
                             </h1>
                             <p className="mt-2 text-slate-400 font-medium">Join the Trading Revolution</p>
                             <div className="flex items-center gap-2 mt-1">

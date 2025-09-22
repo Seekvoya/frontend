@@ -111,7 +111,7 @@ const LoginPage = ({ onLogin }) => {
                 </div>
               </div>
               <h1 className="text-4xl font-bold bg-gradient-to-r from-white via-cyan-200 to-blue-300 bg-clip-text text-transparent tracking-tight">
-                overcards
+                Overcards
               </h1>
               <p className="mt-2 text-slate-400 font-medium">Secure Trading Access</p>
               <div className="flex items-center gap-2 mt-1">
